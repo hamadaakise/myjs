@@ -1,0 +1,2 @@
+# myjs
+kumpulan js
