@@ -17,7 +17,7 @@
    var postLabels = new Array();    // array of post labels
 
 // global variables
-   var sortBy = "datenewest";         // default value for sorting ToC
+   var sortBy = "titleasc";         // default value for sorting ToC
    var tocLoaded = false;           // true if feed is read and ToC can be displayed
    var numChars = 250;              // number of characters in post summary
    var postFilter = '';             // default filter value
